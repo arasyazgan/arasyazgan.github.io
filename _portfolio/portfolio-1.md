@@ -1,6 +1,6 @@
 ---
 title: "Fields and Waves VR Lab"
-excerpt: "Short description of portfolio item number 1<br/><video src='videos/MM25 2019-09-22 21-28-25.mp4'>"
+excerpt: "A VR game used to teach the Fields and Waves class (ECE 329) at the University of Illinois at Urbana-Champaign <br/><video src='videos/MM25 2019-09-22 21-28-25.mp4'>"
 collection: portfolio
 ---
 
