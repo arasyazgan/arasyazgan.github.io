@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fields and Waves VR Lab"
+excerpt: "Short description of portfolio item number 1<br/><video src='videos/MM25 2019-09-22 21-28-25.mp4'>"
 collection: portfolio
 ---
 
