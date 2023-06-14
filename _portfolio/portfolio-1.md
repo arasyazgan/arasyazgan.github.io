@@ -1,7 +1,11 @@
 ---
 title: "Fields and Waves VR Lab"
-excerpt: "A VR game used to teach the Fields and Waves class (ECE 329) at the University of Illinois at Urbana-Champaign <br/><video src='videos/MM25 2019-09-22 21-28-25.mp4'>"
+excerpt: "This is a VR game used to teach the Fields and Waves class (ECE 329) at the University of Illinois at Urbana-Champaign. <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[![Video of Wave Polarization]
+(https://img.youtube.com/vi/g4S9CjLKh3w/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=g4S9CjLKh3w)
+
+This project is part of an effort in the Electrical Engineering department of the University of Illinois at Urbana-Champaign to make certain concepts easier to visualize for the Fields and Waves I course. 
