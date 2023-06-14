@@ -1,5 +1,5 @@
 ---
-title: "VR Space Flight Simulator"
+title: "VR Spaceship Dogfighting Simulator"
 excerpt: "This is spaceship and mecha VR game I developed in Unity. You can find the game in this link along with a demo: https://github.com/Sketching101/moon2/releases/tag/v1.1 <br/><img src='/images/SpaceFlightVRThumbnail.png' width='500' height='300'>"
 collection: portfolio
 ---
@@ -20,5 +20,4 @@ This is a VR game I created with a couple of friends. It is a game where the pla
         <li>The mecha's weapons fading in when being used, and fading out when not being used</li>
     </ul>
     <li>Created borders and UI elements to prevent the ship from getting lost in the vastness of space</li>
-    <li></li>
 </ul> 
