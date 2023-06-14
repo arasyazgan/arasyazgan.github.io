@@ -38,4 +38,4 @@ Skills
 * Skilled illustrator and animator (portfolio: https://www.artstation.com/sketching101)
 * Fluent in English, Turkish, and French
 
-[Download Full Resume Here](<../../../../Downloads/Aras Yazgan CV_Resume 2023 (Games).pdf>)
+[Download Full Resume Here](</files/Aras Yazgan CV_Resume 2023 June.pdf>)
