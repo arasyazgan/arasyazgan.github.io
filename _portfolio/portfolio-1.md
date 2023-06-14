@@ -1,6 +1,6 @@
 ---
 title: "Fields and Waves VR Lab"
-excerpt: "This is a VR game used to teach the Fields and Waves class (ECE 329) at the University of Illinois at Urbana-Champaign. <br/><img src='/images/PropogationLabThumbnail.jpeg'>"
+excerpt: "This is a VR game used to teach the Fields and Waves class (ECE 329) at the University of Illinois at Urbana-Champaign. <br/><img src='/images/PropogationLabThumbnail.png'>"
 collection: portfolio
 ---
 <!-- {% include youtube.html id="huVNjEjQvaQ" %} -->
