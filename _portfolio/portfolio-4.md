@@ -1,5 +1,5 @@
 ---
-title: "Moon the Game"
+title: "Moon, the Game"
 excerpt: "This is top down shoot-em-up game. You can find the game in this link along with a demo: https://github.com/bbernardoni/Moon/releases/tag/v1.0 <br/><img src='/images/MoonThumbnail.png' width='500' height='300'>"
 collection: portfolio
 ---
