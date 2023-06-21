@@ -6,7 +6,11 @@ collection: portfolio
 <!-- {% include youtube.html id="huVNjEjQvaQ" %} -->
 {% include youtube.html id="g4S9CjLKh3w" %}
 
-This project is part of an effort in the Electrical Engineering department of the University of Illinois at Urbana-Champaign to make certain concepts easier to visualize for the Fields and Waves I course. During my time at the lab, I did the following:
+## About the project
+
+This project is part of an effort in the Electrical Engineering department of the University of Illinois at Urbana-Champaign to make certain concepts easier to visualize for the Fields and Waves I course. 
+
+## My Contributions
  <ul>
   <li>Created simulations for the physics of electromagnetic waves in given custom parameters for mediums they propagate through</li>
   <li>Developed code for tutorials and laboratories for wave propagation in virtual reality for the students to be able to learn</li>
@@ -14,3 +18,5 @@ This project is part of an effort in the Electrical Engineering department of th
   <li>Worked with colleagues to integrate shared code I created into other labs they were working on</li>
   <li>Debugged code belonging to various team members</li>
 </ul> 
+
+## Intentions & Process
