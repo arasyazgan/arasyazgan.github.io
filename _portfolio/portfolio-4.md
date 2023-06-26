@@ -5,7 +5,10 @@ collection: portfolio
 ---
 {% include youtube.html id="hMQ7u0fNaBI" %}
 
-This is a top down shoot-em-up game I created with a couple of friends. The player controls a woman in a prison facility on the moon who is trying to escape. They collect weapons and make their way out of the facility, either avoiding or fighting prison guards patrolling the area. I did the following:
+## About the project
+This is a top down shoot-em-up game I created with a couple of friends. The player controls a woman in a prison facility on the moon who is trying to escape. They collect weapons and make their way out of the facility, either avoiding or fighting prison guards patrolling the area. 
+
+## My Contributions
  <ul>
     <li>Wrote the game design documents for the project</li>
     <li>Implemented an A* pathfinding system developed by a 3rd party developer</li>

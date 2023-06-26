@@ -5,7 +5,9 @@ collection: portfolio
 ---
 {% include youtube.html id="qsU2yLjkGsI" %}
 Demo:
-This is a VR game I created with a couple of friends. It is a game where the player controls a spaceship that can also transform into a mech (akin to a Gundam) powered with rocket launched fists, swords that slice ships and asteroids in two, and guns. The gameplay focuses on flight and space combat against other spaceships. I did the following:
+This is a VR game I created with a couple of friends. It is a game where the player controls a spaceship that can also transform into a mech (akin to a Gundam) powered with rocket launched fists, swords that slice ships and asteroids in two, and guns. The gameplay focuses on flight and space combat against other spaceships. 
+
+## My Contributions
  <ul>
     <li>Created and filled the design documents for the game</li>
     <li>Developed all player controls, such as:</li>
