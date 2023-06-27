@@ -3,7 +3,6 @@ title: "Fields and Waves VR Lab"
 excerpt: "This is a VR game used to teach the Fields and Waves class (ECE 329) at the University of Illinois at Urbana-Champaign. <br/><img src='/images/PropogationLabThumbnail.png' width='500' height='300'>"
 collection: portfolio
 ---
-<!-- {% include youtube.html id="huVNjEjQvaQ" %} -->
 {% include youtube.html id="g4S9CjLKh3w" %}
 
 ## About the project

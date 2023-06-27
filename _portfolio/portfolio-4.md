@@ -1,9 +1,10 @@
 ---
 title: "Moon, the Game"
-excerpt: "This is top down shoot-em-up game. You can find the game in this link along with a demo: https://github.com/bbernardoni/Moon/releases/tag/v1.0 <br/><img src='/images/MoonThumbnail.png' width='500' height='300'>"
+excerpt: "This is top down shoot-em-up game. <br/><img src='/images/MoonThumbnail.png' width='500' height='300'>"
 collection: portfolio
 ---
 {% include youtube.html id="hMQ7u0fNaBI" %}
+You can find the [game and its demo here](https://github.com/bbernardoni/Moon/releases/tag/v1.0).
 
 ## About the project
 This is a top down shoot-em-up game I created with a couple of friends. The player controls a woman in a prison facility on the moon who is trying to escape. They collect weapons and make their way out of the facility, either avoiding or fighting prison guards patrolling the area. 
@@ -29,3 +30,4 @@ This is a top down shoot-em-up game I created with a couple of friends. The play
 </ul>
 
 ## Intentions & Process
+This was the first project I finished on where I made a game design document. I teamed up with three others (two of whom worked with me on [VR Spaceship Dogfighting Simulator](https://arasyazgan.github.io/portfolio/portfolio-3/)) to bring this to life. Our original design had a much larger scope than what we had time and resources for. We had originally intended to tell a story, including a dialogue system where NPCs would talk amongst themselves with text bubbles hanging overhead.

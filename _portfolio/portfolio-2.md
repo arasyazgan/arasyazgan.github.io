@@ -25,3 +25,6 @@ The next year, during MM26, I played a more prominent role in the visualizer tea
 </ul> 
 
 ## Intentions & Process
+Two very important considerations in the Mechmania games are that (a) the players are not human, but bots programmed in a matter of hours during this 24-hour competition, and (b) it must be entertaining to watch, potentially more so than it is to be "played". Consideration (b) is especially vital in the visualizer department, which is where most of my contributions lie.
+
+For Mechmania 25, this was a straightforward challenge, if not an easy one. At any given time, only two players were on the field. We decided to focus on the living player pieces and moved the camera accordingly. To make a battle of supposedly giant mechs on a board come to life as a turn based game, I drew inspiration from various games that used VFX to create exciting and cool looking abilities in other such turn-based strategy games, such as Final Fantasy Tactics and Into the Breach. I found models for boulders, and VFX for smoke and fire. Since the game was being played by computers, it was relatively fast paced. Using the smoke trails and the fire, I created animations of rockets flying out of the screen and falling down from the atmosphere. Similarly, I set a pattern to the falling of the boulders when the arena shrinks so that it would feel more dynamic.
