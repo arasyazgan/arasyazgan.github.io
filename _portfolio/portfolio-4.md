@@ -27,3 +27,5 @@ This is a top down shoot-em-up game I created with a couple of friends. The play
     <li>Created pixel art for the main character</li>
     <li>Created and implemented animations for the main character</li>
 </ul>
+
+## Intentions & Process

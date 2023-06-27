@@ -4,9 +4,9 @@ excerpt: "This is spaceship and mecha VR game I developed in Unity. You can find
 collection: portfolio
 ---
 {% include youtube.html id="qsU2yLjkGsI" %}
-Demo:
-This is a VR game I created with a couple of friends. It is a game where the player controls a spaceship that can also transform into a mech (akin to a Gundam) powered with rocket launched fists, swords that slice ships and asteroids in two, and guns. The gameplay focuses on flight and space combat against other spaceships. 
 
+## About the project
+This is a VR game I created with a couple of friends. It is a game where the player controls a spaceship that can also transform into a mech (akin to a Gundam) powered with rocket launched fists, swords that slice ships and asteroids in two, and guns. The gameplay focuses on flight and space combat against other spaceships. 
 ## My Contributions
  <ul>
     <li>Created and filled the design documents for the game</li>
@@ -23,3 +23,5 @@ This is a VR game I created with a couple of friends. It is a game where the pla
     </ul>
     <li>Created borders and UI elements to prevent the ship from getting lost in the vastness of space</li>
 </ul> 
+
+## Intentions & Process

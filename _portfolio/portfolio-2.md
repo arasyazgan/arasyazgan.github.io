@@ -23,3 +23,5 @@ The next year, during MM26, I played a more prominent role in the visualizer tea
     <li>Implemented and fixed visuals for character equipment by closely working with the art team</li>
     <li>Provided live site support and debugging during the competition, when unexpected errors and bugs appeared</li>
 </ul> 
+
+## Intentions & Process
