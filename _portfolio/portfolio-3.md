@@ -5,26 +5,20 @@ collection: portfolio
 ---
 {% include youtube.html id="qsU2yLjkGsI" %}
 You can find the [game and its demo here](https://github.com/Sketching101/moon2/releases/tag/v1.1).
-
 ## About the project
 This is a VR game I created with a couple of friends. It is a game where the player controls a spaceship that can also transform into a mech (akin to a Gundam) powered with rocket launched fists, swords that slice ships and asteroids in two, and guns. The gameplay focuses on flight and space combat against other spaceships. 
 ## My Contributions
- <ul>
-    <li>Created and filled the design documents for the game</li>
-    <li>Developed all player controls, such as:</li>
-    <ul>
-        <li>The ship's pitch, yaw, and roll controls</li>
-        <li>The ship's acceleration</li>
-        <li>The ship's transformation to and from mecha form</li>
-        <li>The ship's smart aiming and lock-on mechanics</li>
-        <li>The mecha's rocket punch and its maneuverability</li>
-        <li>The mecha's hands' ability to grip weapons, enemy ships, and asteroids</li>
-        <li>The mecha's ability to fire from guns and finger guns</li>
-        <li>The mecha's weapons fading in when being used, and fading out when not being used</li>
-    </ul>
-    <li>Created borders and UI elements to prevent the ship from getting lost in the vastness of space</li>
-</ul> 
-
+- Created and filled the design documents for the game
+- Developed all player controls, such as:
+    - The ship's pitch, yaw, and roll controls
+    - The ship's acceleration
+    - The ship's transformation to and from mecha form
+    - The ship's smart aiming and lock-on mechanics
+    - The mecha's rocket punch and its maneuverability
+    - The mecha's hands' ability to grip weapons, enemy ships, and asteroids
+    - The mecha's ability to fire from guns and finger guns
+    - The mecha's weapons fading in when being used, and fading out when not being used
+- Created borders and UI elements to prevent the ship from getting lost in the vastness of space
 ## Intentions & Process
 This project started as a simple VR flight game as part of our VR game development class at UIUC. I found this as the perfect opportunity to make a game that would excite me to play. Most of my design decisions throughout this process were based around this philosophy of "what's exciting?" While many people might assume a flight game could be difficult to play due to the nausea VR might cause when there's large amounts of movement, I found that as long as there was a motionless framework around you (such as the cockpit of an airplane) this common problem could be circumvented. I developed the framework for the flight mechanics and shooting while preparing this simple flight simulator. The controllers had no direct control over the ship by themselves. Instead, there were two objects in the cockpit: a joystick and a throttle. The throttle moved around 120 degrees, and how forward it was determined the ship's acceleration and decceleration (to a limit). The joystick's rotation affected the ship's pitch, yaw, and roll. The player could hold these objects and move them by moving their controllers, and depending on what they were holding, the buttons on the controllers would have different effects, such as firing lasers or lock on rockets, and moving the smart-targetting reticle.
 
