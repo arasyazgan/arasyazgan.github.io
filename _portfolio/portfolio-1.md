@@ -1,16 +1,15 @@
 ---
-title: "Fields and Waves VR Lab"
-excerpt: "This is a VR game used to teach the Fields and Waves class (ECE 329) at the University of Illinois at Urbana-Champaign. <br/><img src='/images/PropogationLabThumbnail.png' width='500' height='300'>"
+title: "Sunfall"
+excerpt: "Sunfall is a story-focused puzzle game that I worked on as part of <url src='https://unicornly.itch.io/sunfall'>Pirate Software - Game Jam 15</url>. <br/><img src='/images/SunfallImg.png' width='640' height='320'>"
 collection: portfolio
 ---
-<!-- {% include youtube.html id="huVNjEjQvaQ" %} -->
-{% include youtube.html id="g4S9CjLKh3w" %}
+<!-- {% include youtube.html id="1goYedWpYLo" %} -->
+{% include youtube.html id="1goYedWpYLo" %}
 
-This project is part of an effort in the Electrical Engineering department of the University of Illinois at Urbana-Champaign to make certain concepts easier to visualize for the Fields and Waves I course. During my time at the lab, I did the following:
+Sunfall is a puzzle game that uses the environment and the puzzles themselves to tell a story about a delapidated world that has suffered a cataclysm many years ago. The player travels back and forth in time to the day the Sunfall event happened and to the modern day when they try to repair the sun. I did the following:
  <ul>
-  <li>Created simulations for the physics of electromagnetic waves in given custom parameters for mediums they propagate through</li>
-  <li>Developed code for tutorials and laboratories for wave propagation in virtual reality for the students to be able to learn</li>
-  <li>Developed and integrated UI for the labs I developed</li>
-  <li>Worked with colleagues to integrate shared code I created into other labs they were working on</li>
-  <li>Debugged code belonging to various team members</li>
+  <li>Design the core gameplay of traversing from the night-time ruined world to the inhabited day-time world and back in order to solve puzzles</li>
+  <li>Design a number of the puzzles in the demo</li>
+  <li>Draw and design all of the portraits, sprites, and animations for characters</li>
+  <li>Draw and design all background elements and maps</li>
 </ul> 
