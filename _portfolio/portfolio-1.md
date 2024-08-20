@@ -5,6 +5,7 @@ collection: portfolio
 ---
 <!-- {% include youtube.html id="1goYedWpYLo" %} -->
 {% include youtube.html id="1goYedWpYLo" %}
+You can find the [game and its demo here](https://unicornly.itch.io/sunfall).
 
 Sunfall is a puzzle game that uses the environment and the puzzles themselves to tell a story about a delapidated world that has suffered a cataclysm many years ago. The player travels back and forth in time to the day the Sunfall event happened and to the modern day when they try to repair the sun. I did the following:
  <ul>
